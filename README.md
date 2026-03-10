@@ -1,6 +1,6 @@
-# GECCO'22 EAHPC Workshop Web Site
+# PPSN'26 Nature Inspired Computation on HPC Workshop Web Site
 
-Website code for the GECCO '22 Evolutionary Algorithm in High-performance 
+Website code for the PPSN '26 Nature Inspired Computing in High-performance 
 Computing Workshop
 
-The web site is [here](https://markcoletti.github.io/gecco_eahpc_workshop_site/)
+The web site is [here](https://markcoletti.github.io/ppsn_nihpc_workshop_site/)
