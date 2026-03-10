@@ -3,4 +3,4 @@
 Website code for the PPSN '26 Nature Inspired Computing in High-performance 
 Computing Workshop
 
-The web site is [here](https://markcoletti.github.io/ppsn_nihpc_workshop_site/)
+The web site is [here](https://markcoletti.github.io/ppsn-nihpc-workshop-site/2026/)
